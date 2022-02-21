@@ -35,9 +35,9 @@ nav{
 }
 
 header{
+    display: flex;
     background-color: rgb(231, 226, 226);
     position: relative;
-    display: inline-block;
     text-align: center;
  
 }
@@ -182,7 +182,6 @@ a:hover{
 @media all and (max-width: 908px){ 
 
     main{
-        
         flex-direction: column;
     }
 
@@ -209,7 +208,6 @@ a:hover{
     }
 
     header img{
-        width: 908px;
         height: 15vh;
     }
 

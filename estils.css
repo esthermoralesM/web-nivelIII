@@ -67,6 +67,7 @@ section{
     width: 75%;
     flex-direction: column;
     background-color: rgb(192, 190, 190);
+    padding: 1em;
 }
 
 section article{
